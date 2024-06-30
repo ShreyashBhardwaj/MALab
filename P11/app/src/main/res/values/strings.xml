@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">program11</string>
+    <string name="to">to\n</string>
+    <string name="subject">subject</string>
+    <string name="message">message\n</string>
+    <string name="send">send</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">program9</string>
+    <string name="view">View</string>
+    <string name="ok">Ok</string>
+    <string name="fee">Fee</string>
+    <string name="course">Course</string>
+    <string name="name">Name</string>
+    <string name="course_registation">Course Registation</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="fee1">Fee</string>
+    <string name="course1">Course</string>
+    <string name="name1">Name</string>
+    <string name="id1">ID</string>
+    <string name="course_registation1">Course Registation</string>
+</resources>

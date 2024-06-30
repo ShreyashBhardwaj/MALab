@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">program4</string>
+    <string name="welcome_to_explicit_intent">Welcome to Explicit Intent</string>
+    <string name="implicit_intent">Implicit Intent\n</string>
+    <string name="explicit_intent">Explicit Intent\n</string>
+</resources>

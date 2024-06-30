@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">program8</string>
+    <string name="user_name">User Name</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="password">Password</string>
+    <string name="password1">Password</string>
+    <string name="user_name2">User Name</string>
+</resources>
